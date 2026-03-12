@@ -1,0 +1,25 @@
+{
+  "version": "2.0",
+  "logging": {
+    "logLevel": {
+      "Default": "Warning",
+      "Host": "Warning",
+      "Microsoft": "Warning",
+      "System": "Warning",
+      "Azure": "Warning",
+      "Function": "Information",
+      "Function.SslDeliveryFeederEh": "Information",
+      "SSL.DeliveryFeeder": "Information"
+    },
+    "applicationInsights": {
+      "samplingSettings": {
+        "isEnabled": true,
+        "excludedTypes": "Request"
+      }
+    }
+  },
+  "extensionBundle": {
+    "id": "Microsoft.Azure.Functions.ExtensionBundle",
+    "version": "[4.*, 5.0.0)"
+  }
+}

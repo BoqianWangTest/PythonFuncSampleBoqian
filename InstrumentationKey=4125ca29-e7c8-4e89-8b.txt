@@ -1,0 +1,6 @@
+InstrumentationKey=4125ca29-e7c8-4e89-8bfc-477769df8b2a;IngestionEndpoint=https://australiaeast-1.in.applicationinsights.azure.com/;LiveEndpoint=https://australiaeast.livediagnostics.monitor.azure.com/;ApplicationId=12b7785b-401c-47d9-b68d-edf3f92cbd10
+
+InstrumentationKey=6e10fae9-3891-46e5-87ce-9938661bcb7c;IngestionEndpoint=https://southeastasia-1.in.applicationinsights.azure.com/;LiveEndpoint=https://southeastasia.livediagnostics.monitor.azure.com/;ApplicationId=d4e9cfa0-1b47-4056-bd8f-dc1edc79c872
+
+
+
